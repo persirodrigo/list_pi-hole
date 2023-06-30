@@ -1,0 +1,7 @@
+0.0.0.0 flow.com.ar
+0.0.0.0 telecentroplay.com.ar
+0.0.0.0 netflix.com
+0.0.0.0 hbomax.com
+0.0.0.0 primevideo.com
+0.0.0.0 disneyplus.com
+0.0.0.0 directvgo.com
